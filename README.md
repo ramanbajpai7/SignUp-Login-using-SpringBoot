@@ -70,6 +70,8 @@ mvn spring-boot:run
 ```
 
 ## Run following SQL insert statements
+<img width="960" alt="Screenshot 2023-05-30 210638" src="https://github.com/ramanbajpai7/SignUp-Login-using-SpringBoot/assets/84241394/890cad1f-3957-4df5-a320-3334629215e1">
+
 ```
 INSERT INTO roles(name) VALUES('ROLE_USER');
 INSERT INTO roles(name) VALUES('ROLE_MODERATOR');
@@ -89,6 +91,7 @@ The demo includes three user accounts with different access levels:
 - User: Username - user, Password - password
 - Disabled: Username - disabled, Password - password (this account is deactivated)
 ## Steps to run the Project
+
 
 1. Clone the repository:
 
